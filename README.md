@@ -118,12 +118,13 @@
 
 ​	:email: [2022202777@ruc.edu.cn](mailto:2022202777@ruc.edu.cn)
 
+😎Instructor: Xinqi Gong
 
+​	:email: [xinqigong@ruc.edu.cn](mailto:xinqigong@ruc.edu.cn)
 
 ### **Acknowledgment**
 
 ------
 
 - B·R·A·I·N: 中国人民大学国家治理大数据和人工智能创新平台，为本项目提供数据与技术支持。
-
 
