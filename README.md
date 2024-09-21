@@ -4,12 +4,13 @@
 
 ------
 
-<div align="center">
-  <a href="http://www.repostatus.org/#active" title="Project Status: Active – The project has reached a stable, usable state and is being actively developed.">
-    <img src="http://www.repostatus.org/badges/latest/active.svg" alt="Project Status: Active" />
-  </a>
+<div align="left">
+    <a href="https://www.repostatus.org/#wip">
+    <img src="https://www.repostatus.org/badges/latest/wip.svg" alt="Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public." />
+    </a>
   <img alt="license badge" src="https://img.shields.io/github/license/jankapunkt/latexcv">
 </div>
+
 
 
 
@@ -124,12 +125,4 @@ Project Manager: shhhhier123
 ------
 
 `<NULL>`
-
-
-
-### **License**
-
-------
-
-BSD 2-Clause License
 
