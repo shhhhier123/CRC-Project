@@ -1,12 +1,17 @@
 # CRC-Project
 
-## A New Paradigm for Interviewing “Wise” Words: A Study on the Application of RAG+LLM System for the Management and Analysis of Qualitative Data and the Construction of Character Profiles
+## A New Paradigm for “Wise”  Interviewing: A Study on the Application of RAG+LLM System for the Management and Analysis of Qualitative Data and the Construction of Character Profiles
 
 ------
 
+<div align="center">
+  <a href="http://www.repostatus.org/#active" title="Project Status: Active – The project has reached a stable, usable state and is being actively developed.">
+    <img src="http://www.repostatus.org/badges/latest/active.svg" alt="Project Status: Active" />
+  </a>
+  <img alt="license badge" src="https://img.shields.io/github/license/jankapunkt/latexcv">
+</div>
 
 
-[Badges]
 
 ### **Introduction**
 
