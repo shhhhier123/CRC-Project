@@ -8,9 +8,9 @@
     <a href="https://www.repostatus.org/#wip">
     <img src="https://www.repostatus.org/badges/latest/wip.svg" alt="Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public." />
     </a>
-  <img alt="license badge" src="https://img.shields.io/github/license/jankapunkt/latexcv">
+  <img alt="license badge" src="https://img.shields.io/github/repo-size/shhhhier123/CRC-Project">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/license/jankapunkt/latexcv">
 </div>
-
 
 
 
@@ -22,15 +22,7 @@
 
 
 
-#### **Summary**
-
-------
-
-`<NULL>`
-
-
-
-#### **Features**
+### **Features**
 
 ------
 
@@ -47,14 +39,6 @@
 
 
 ### **Configuration**
-
-------
-
-`<NULL>`
-
-
-
-### **Installation**
 
 ------
 
@@ -102,7 +86,7 @@
 
 
 
-#### **Docs**
+### Structure
 
 ------
 
@@ -110,19 +94,36 @@
 
 
 
-#### **Contact**
+### **Contact**
 
 ------
 
-Project Manager: shhhhier123
+⭐Project Manager: shhhhier123
 
-:email: [2021201761@ruc.edu.cn](mailto:2021201761@ruc.edu.cn)
+​	:email: [2021201761@ruc.edu.cn](mailto:2021201761@ruc.edu.cn)
+
+🙌Collaborator: hst
+
+​	:email: [13097060792@163.com](mailto:13097060792@163.com)
+
+🙌Collaborator: yjl
+
+​	:email: [2022202843@ruc.edu.cn](mailto:2022202843@ruc.edu.cn)
+
+🙌Collaborator: xyz
+
+​	:email: [Xiongyaozhong626@ruc.edu.cn](mailto:Xiongyaozhong626@ruc.edu.cn)
+
+🙌Collaborator: yzh
+
+​	:email: [2022202777@ruc.edu.cn](mailto:2022202777@ruc.edu.cn)
 
 
 
-### **Authors and acknowledgment**
+### **Acknowledgment**
 
 ------
 
-`<NULL>`
+- B·R·A·I·N: 中国人民大学国家治理大数据和人工智能创新平台，为本项目提供数据与技术支持。
+
 
