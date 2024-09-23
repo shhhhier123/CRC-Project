@@ -89,10 +89,10 @@ SQL - Structured Query Language - 结构化查询语言：是一种用于管理�
 
 要进行数据清理，链接数据库，编写RAG，调用开源大模型，完成下游任务……这些都离不开Python。本项目对于Python掌握程度的要求如下：
 
-- [ ] ✔能看得懂网上的基础Python代码，知道它在做些什么。不需要运行它，你可以**借助大模型**理解代码。（以看懂这篇文章为例：[MultiModal RAG for Advanced Video Processing with LlamaIndex & LanceDB](https://medium.com/llamaindex-blog/multimodal-rag-for-advanced-video-processing-with-llamaindex-lancedb-33be4804822e)，*如果打不开请尝试搭梯子*）。
+- [x] ✔能看得懂网上的基础Python代码，知道它在做些什么。不需要运行它，你可以**借助大模型**理解代码。（以看懂这篇文章为例：[MultiModal RAG for Advanced Video Processing with LlamaIndex & LanceDB](https://medium.com/llamaindex-blog/multimodal-rag-for-advanced-video-processing-with-llamaindex-lancedb-33be4804822e)，*如果打不开请尝试搭梯子*）。
 
-- [ ] ✔能**利用大模型**写基础Python代码。给出你的需求，读懂，然后把它有效的部分保留下来。
-- [ ] ✔会调试代码，找不到bug也没关系。以PyCharm为例，会使用调试工具，能打断点，会看进程中的参数，就可以了（参见下文工具部分-配置Python环境）！
+- [x] ✔能**利用大模型**写基础Python代码。给出你的需求，读懂，然后把它有效的部分保留下来。
+- [x] ✔会调试代码，找不到bug也没关系。以PyCharm为例，会使用调试工具，能打断点，会看进程中的参数，就可以了（参见下文工具部分-配置Python环境）！
 
 
 
